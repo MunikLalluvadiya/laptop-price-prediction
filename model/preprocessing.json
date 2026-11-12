@@ -1,0 +1,93 @@
+{
+    "brand_keep": [
+        "Asus",
+        "HP",
+        "Lenovo",
+        "MSI",
+        "Acer",
+        "Apple",
+        "Dell",
+        "Microsoft",
+        "Gigabyte",
+        "Razer",
+        "Medion",
+        "LG"
+    ],
+    "cpu_keep": [
+        "Intel Core i7",
+        "Intel Core i5",
+        "AMD Ryzen 7",
+        "Intel Core i3",
+        "AMD Ryzen 5",
+        "Intel Celeron",
+        "Intel Core i9",
+        "Intel Evo Core i7",
+        "AMD Ryzen 3",
+        "AMD Ryzen 9"
+    ],
+    "gpu_keep": [
+        "Integrated",
+        "RTX 3050",
+        "RTX 3060",
+        "RTX 3070",
+        "RTX 4060",
+        "RTX 3080",
+        "GTX 1650",
+        "RTX 4070",
+        "RTX 4050"
+    ],
+    "categories": {
+        "Status": [
+            "New",
+            "Refurbished"
+        ],
+        "Brand": [
+            "Acer",
+            "Apple",
+            "Asus",
+            "Dell",
+            "Gigabyte",
+            "HP",
+            "LG",
+            "Lenovo",
+            "MSI",
+            "Medion",
+            "Microsoft",
+            "Other",
+            "Razer"
+        ],
+        "CPU": [
+            "AMD Ryzen 3",
+            "AMD Ryzen 5",
+            "AMD Ryzen 7",
+            "AMD Ryzen 9",
+            "Intel Celeron",
+            "Intel Core i3",
+            "Intel Core i5",
+            "Intel Core i7",
+            "Intel Core i9",
+            "Intel Evo Core i7",
+            "Other"
+        ],
+        "Storage type": [
+            "SSD",
+            "eMMC"
+        ],
+        "GPU": [
+            "GTX 1650",
+            "Integrated",
+            "Other",
+            "RTX 3050",
+            "RTX 3060",
+            "RTX 3070",
+            "RTX 3080",
+            "RTX 4050",
+            "RTX 4060",
+            "RTX 4070"
+        ],
+        "Touch": [
+            "No",
+            "Yes"
+        ]
+    }
+}
